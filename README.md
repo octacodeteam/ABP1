@@ -1,2 +1,4 @@
-# ABP1
-ABP (Aprendizado Baseado em Projeto) realizada pela turma pro primeiro semestre de DSM (Desenvolvimento de Software Multiplataforma)
+<div>
+  <h1>Sobre</h1
+  <p>Projeto desenvolvido pela turma do primeiro semestre do curso de DSM: Octacode Team!</p>
+</div>
