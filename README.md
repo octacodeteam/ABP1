@@ -1,4 +1,4 @@
-<h1 align="center"> Sprint 1 - Scrum4You </h1>
+<h1 align="center"> Sprint 1 - Jornada Scrum </h1>
 
 **Início: 10/09 - Fim: 04/10**
 
