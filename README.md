@@ -46,7 +46,41 @@ Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo
 
 ## 🔗 Resultados :
 
-Adicionar print das telas
+## Tela Introdutória
+Logo ao abrir a aplicação, é exibida a página inicial sendo possível optar por navegar entre as trilhas, sua jornado e perfil.
+
+![Home](https://github.com/user-attachments/assets/ac1ec588-d68f-42fd-bd8e-3a228bee573e)
+
+## Glossário
+A tela glossário apresenta definições e explicações de termos-chave, facilitando a compreensão do conteúdo para os usuários.
+
+![image](https://github.com/user-attachments/assets/733e3926-504f-4110-b273-746539e2e855)
+
+## Trilhas
+As trilhas 1 a 6 oferecem um percurso progressivo de aprendizado, abordando conceitos fundamentais e avançados de forma estruturada e interativa.
+
+![image](https://github.com/user-attachments/assets/bc781f2f-413c-4c6f-8f01-4ef8bdb31bb5)
+
+## Login
+A tela de login permite que os usuários acessem suas contas inserindo credenciais, garantindo segurança e personalização da experiência.
+
+![image](https://github.com/user-attachments/assets/18feaf2a-487a-476c-8bb4-ef29f3ddfc79)
+
+## Cadastro
+Permite que novos usuários criem uma conta fornecendo informações básicas, como nome, e-mail e senha.
+
+![image](https://github.com/user-attachments/assets/82d8509c-b569-43b2-88b0-54184e74891f)
+
+## Perfil
+Exibe e permite a edição das informações pessoais do usuário, como dados de contato e preferências.
+
+![image](https://github.com/user-attachments/assets/58e3b8a0-36dd-4a5e-b8e4-d1e406b99fb2)
+
+## Certificado
+Mostra o certificado conquistado pelo usuario
+
+![image](https://github.com/user-attachments/assets/538203c3-a771-4763-81b3-c190c5f1283c)
+
 
 <br>
 
