@@ -102,8 +102,7 @@ Adicionar backlog das sprints
 
 ## 📋Trello
 <p align="center">
-Adicionar link trello
-<br>
+https://trello.com/b/K0QEKpUr/abp<br>
 
 ## 🧱Modelo de Dados
 <p align="center">
