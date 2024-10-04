@@ -2,7 +2,7 @@
 
 **Início: 10/09 - Fim: 04/10**
 
-**Status do Projeto: Em andamento🚧**
+**Status do Projeto: Concluído✅**
 
 <span id="objetivo">
   
@@ -20,7 +20,8 @@ Incluir um resumo do objetivo da sprint. Explicar o que se pretende alcançar, q
 
 ## 📉Burndown
 
-Adicionar burndown
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/713183ea-bccf-4bd9-b978-5ce693417c2a">
+
 
 </br>
 
