@@ -104,11 +104,6 @@ Adicionar backlog das sprints
 <p align="center">
 https://trello.com/b/K0QEKpUr/abp<br>
 
-## 🧱Modelo de Dados
-<p align="center">
-Adicionar modelo relacional
-<br>
-
 ## 👨‍💻**Autores** 
 
 |      Nome      |    Função       |                            Github                             |
