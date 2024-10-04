@@ -80,9 +80,9 @@ Estamos utilizando o próprio Scrum como framework para desenvolver este site so
 <span id="tecnologias">
   
 ## 👥User Stories
-<p align="center">
-| ID        | Descrição                                                                                                                                  |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------|
+
+| ID        | Descrição                                                                  |
+|-----------|----------------------------------------------------------------------------|
 | 1     | Como usuário, eu quero navegar com um menu de navegação, para que, ao ser clicado, remeta a ação correspondente;                               |
 | 2     | Como usuário, eu quero me cadastrar, para que, ao informar meu nome completo, email e senha, eu crie um cadastro automático;                   |
 | 3     | Como usuário, eu quero efetuar login, para que, eu consiga acessar informando meu email de cadastro e senha;                                   |
