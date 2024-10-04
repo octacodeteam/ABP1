@@ -14,16 +14,15 @@ Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo
 
 | ID | Requisito          | Responsável | Prioridade | User Stories                                                 | Pontuação | Definition of Done                                           |
 |----|--------------------|-------------|------------|-------------------------------------------------------------|-----------|-------------------------------------------------------------|
-| 1  | teste    | --        | --       | -- | --         | -- |
-| 2  | --    | --        | --       | -- | --         | -- |
-| 3  | --    | --        | --       | -- | --         | -- |
-| 4  | --    | --        | --       | -- | --         | -- |
-| 5  | --    | --        | --       | -- | --         | -- |
-| 6  | --    | --        | --       | -- | --         | -- |
-| 7  | --    | --        | --       | -- | --         | -- |
-| 8  | --    | --        | --       | -- | --         | -- |
-| 9  | --    | --        | --       | -- | --         | -- |
-| 10  | --    | --        | --       | -- | --         | -- |
+| 1  | Implementar mecanismo de navegação (menu)    | Alisson; Gustavo Hammes      | --       | -- | --         | -- |
+| 2  | Implementar auto-cadastro de usuário    | --        | --       | -- | --         | -- |
+| 3  | Implementar autenticação de usuário    | --        | --       | -- | --         | -- |
+| 4  | Exibir 3 questões para usuários logados    | --        | --       | -- | --         | -- |
+| 5  | Acesso a conteúdo para usuários não logados, sem questões    | --        | --       | -- | --         | -- |
+| 6  | Permitir tentativas ilimitadas nas questões    | --        | --       | -- | --         | -- |
+| 7  | Exibir questões apenas para tópicos não aprovados    | --        | --       | -- | --         | -- |
+| 8  | Emissão de certificado de conclusão para aprovados    | --        | --       | -- | --         | -- |
+
 
 
 
