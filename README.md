@@ -14,14 +14,14 @@ Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo
 
 | ID | Requisito          | Responsável | Prioridade | User Stories                                                 | Pontuação | Definition of Done                                           |
 |----|--------------------|-------------|------------|-------------------------------------------------------------|-----------|-------------------------------------------------------------|
-| 1  | Implementar mecanismo de navegação (menu)    | Alisson; Gustavo Hammes      | --       | -- | --         | -- |
-| 2  | Implementar auto-cadastro de usuário    | --        | --       | -- | --         | -- |
-| 3  | Implementar autenticação de usuário    | --        | --       | -- | --         | -- |
-| 4  | Exibir 3 questões para usuários logados    | --        | --       | -- | --         | Realizar o levantamento do conteúdo, assim como a criação das questões que serão exibidas. |
-| 5  | Acesso a conteúdo para usuários não logados, sem questões    | --        | --       | -- | --         | -- |
-| 6  | Permitir tentativas ilimitadas nas questões    | --        | --       | -- | --         | -- |
-| 7  | Exibir questões apenas para tópicos não aprovados    | --        | --       | -- | --         | -- |
-| 8  | Emissão de certificado de conclusão para aprovados    | Gustavo Hammes; Yasmin Barbosa        | --       | -- | --         | -- |
+| 1  | Implementar mecanismo de navegação (menu)    | Alisson; Gustavo Hammes      | --       | Como usuário, eu quero navegar com um menu de navegação, para que, ao ser clicado, remeta a ação correspondente; | --         | -- |
+| 2  | Implementar auto-cadastro de usuário    | --        | --       | Como usuário, eu quero me cadastrar, para que, ao informar meu nome completo, email e senha, eu crie um cadastro automático; | --         | -- |
+| 3  | Implementar autenticação de usuário    | --        | --       | Como usuário, eu quero efetuar login, para que, eu consiga acessar informando meu email de cadastro e senha; | --         | -- |
+| 4  | Exibir 3 questões para usuários logados    | --        | --       | Como usuário, eu quero realizar questionamentos, para que, cada questionamento possua 3 questões referentes aos tópicos; | --         | Realizar o levantamento do conteúdo, assim como a criação das questões que serão exibidas. |
+| 5  | Acesso a conteúdo para usuários não logados, sem questões    | --        | --       | Como usuário, eu quero visualizar os tópicos, para que, eu só consiga realizar os questionamentos quando estiver logado; | --         | -- |
+| 6  | Permitir tentativas ilimitadas nas questões    | --        | --       | Como usuário, eu quero realizar os questionamentos quantas vezes quiser, para que, eu consiga realizar até obter êxito; | --         | -- |
+| 7  | Exibir questões apenas para tópicos não aprovados    | --        | --       | Como usuário, eu quero realizar os questionamentos nos tópicos não concluídos, para que, eu de continuidade após acertar pelo menos 2 questões; | --         | -- |
+| 8  | Emissão de certificado de conclusão para aprovados    | Gustavo Hammes; Yasmin Barbosa        | --       | Como usuário, eu quero completar todos os tópicos, para que, eu receba o certificado após concluir; | --         | -- |
 
 
 
