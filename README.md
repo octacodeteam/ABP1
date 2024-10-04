@@ -17,7 +17,7 @@ Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo
 | 1  | Implementar mecanismo de navegação (menu)    | Alisson; Gustavo Hammes      | --       | -- | --         | -- |
 | 2  | Implementar auto-cadastro de usuário    | --        | --       | -- | --         | -- |
 | 3  | Implementar autenticação de usuário    | --        | --       | -- | --         | -- |
-| 4  | Exibir 3 questões para usuários logados    | --        | --       | -- | --         | Realizar o levantamento do conteúdo, asism como a criação das questões que serão exibidas. |
+| 4  | Exibir 3 questões para usuários logados    | --        | --       | -- | --         | Realizar o levantamento do conteúdo, assim como a criação das questões que serão exibidas. |
 | 5  | Acesso a conteúdo para usuários não logados, sem questões    | --        | --       | -- | --         | -- |
 | 6  | Permitir tentativas ilimitadas nas questões    | --        | --       | -- | --         | -- |
 | 7  | Exibir questões apenas para tópicos não aprovados    | --        | --       | -- | --         | -- |
