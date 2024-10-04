@@ -7,7 +7,7 @@
 <span id="objetivo">
   
 ## 📌Objetivo da Sprint
-Incluir um resumo do objetivo da sprint. Explicar o que se pretende alcançar, quais funcionalidades serão desenvolvidas e como isso se alinha aos objetivos do projeto.
+Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo no Figma, levantar o conteúdo necessário, dividir as atividades entre os membros da equipe e publicar a página do projeto no GitHub.
 <br>
 
 ## Sprint Backlog
