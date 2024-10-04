@@ -35,10 +35,16 @@ Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo
 </br>
 
 ## Retrospectiva
-- O que deu certo
-- O que não deu certo
-- Ações para a proxima sprint
- 
+
+* A comunicação do time foi muito produtiva e deve ser mantida durante todo o projeto
+* A produtividade dos participantes foi bem eficiente.
+* A criatividade do grupo flui de forma contínua durante a sprint.
+* O levantamento do conteúdo inicial poderia ter sido feito de maneira mais antecipada e prática.
+* Os toques finais de conclusão da sprint poderia ser melhor organizado.
+* O Figma poderia ter sido separado melhor entre os participantes.
+* Evitar Dailys improdutivas.
+* A divisão de tarefas da Sprint deve ser melhor estipulada.
+  
 
 ## 🔗 Resultados :
 
