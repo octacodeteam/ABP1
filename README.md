@@ -21,7 +21,7 @@ Na primeira sprint, o objetivo foi definir o nome do projeto, criar o protótipo
 | 5  | Acesso a conteúdo para usuários não logados, sem questões    | --        | --       | -- | --         | -- |
 | 6  | Permitir tentativas ilimitadas nas questões    | --        | --       | -- | --         | -- |
 | 7  | Exibir questões apenas para tópicos não aprovados    | --        | --       | -- | --         | -- |
-| 8  | Emissão de certificado de conclusão para aprovados    | --        | --       | -- | --         | -- |
+| 8  | Emissão de certificado de conclusão para aprovados    | Gustavo Hammes; Yasmin Barbosa        | --       | -- | --         | -- |
 
 
 
