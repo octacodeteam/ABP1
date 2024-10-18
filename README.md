@@ -30,7 +30,7 @@
 | Links | Período | Status |
 |:-----:|:----------:|:---------:|
 | [Sprint 1](https://github.com/octacodeteam/ABP1/tree/sprint-1) | 10/09/2024 - 04/10/2024 | Concluído ✅ |
-| [Sprint 2]([https://github.com/octacodeteam/ABP1](https://github.com/octacodeteam/ABP1/tree/sprint-2) | 07/10/2024 - 01/11/2024 | Em andamento :hourglass: |  
+| [Sprint 2](https://github.com/octacodeteam/ABP1/tree/sprint-2) | 07/10/2024 - 01/11/2024 | Em andamento :hourglass: |  
 | [Sprint 3](https://github.com/octacodeteam/ABP1) | 04/11/2024 - 22/11/2024 | Em andamento :hourglass: | 
 
 <span id="backlogArtefatos">
