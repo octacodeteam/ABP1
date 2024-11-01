@@ -16,7 +16,8 @@ Adicionar backlog da sprint 2
 
 ## 📉Burndown
 
-Adicionar imagem do burndown da sprint 2
+![burndows-sprint2](https://github.com/user-attachments/assets/908bb953-f523-4a57-936d-059a63d0ee6f)
+
 
 ## Retrospectiva
 
