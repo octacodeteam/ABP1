@@ -29,8 +29,10 @@ Adicionar retrospectiva da sprint 2
 
 [JORNADA SCRUM - OCTACODE](https://gustavohammes.github.io/ABP--teste/template.html)
 
+[Repositório](https://github.com/GustavoHammes/ABP--teste)
+
 ## 🎥 Apresentação do Projeto :
 
-Adicionar link da apresentação da sprint 2
+[Vídeo Youtube](https://youtu.be/AN-MqWtQggA)
 
 <br>
