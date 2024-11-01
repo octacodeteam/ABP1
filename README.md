@@ -35,7 +35,11 @@ Na segunda sprint, o objetivo foi criar o código HTML e CSS do frontend baseado
 
 ## Retrospectiva
 
-Adicionar retrospectiva da sprint 2
+* Dailys foram mais produtivas;
+* As tarefas nessa sprint foram melhores compartilhadas e estipuladas;
+* Levantamento do conteúdo inicial foi determinante para organização do grupo;
+* Precisamos melhorar a responsividade e refinar mais o código para a próxima sprint;
+* Melhorar em alguns pontos na comunicação do grupo;
   
 
 ## 🔗 Resultados :
