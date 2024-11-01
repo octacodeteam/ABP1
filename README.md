@@ -2,7 +2,7 @@
 
 **Início: 07/10 - Fim: 01/11**
 
-**Status do Projeto: Em andamento⌛**
+**Status do Projeto: Concluído ✅**
 
 <span id="objetivo">
   
@@ -12,7 +12,8 @@ Na segunda sprint, o objetivo foi criar o código HTML e CSS do frontend baseado
 
 ## Sprint Backlog
 
-Adicionar backlog da sprint 2
+| ID | Requisito          | Responsável | Prioridade | User Stories                                                 | Pontuação | Definition of Done                                           |
+|----|--------------------|-------------|------------|-------------------------------------------------------------|-----------|-------------------------------------------------------------|
 
 ## 📉Burndown
 
@@ -26,7 +27,7 @@ Adicionar retrospectiva da sprint 2
 
 ## 🔗 Resultados :
 
-Adicionar resultados da sprint 2
+[JORNADA SCRUM - OCTACODE](https://gustavohammes.github.io/ABP--teste/template.html)
 
 ## 🎥 Apresentação do Projeto :
 
