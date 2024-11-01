@@ -40,6 +40,7 @@ Na segunda sprint, o objetivo foi criar o código HTML e CSS do frontend baseado
 * Levantamento do conteúdo inicial foi determinante para organização do grupo;
 * Precisamos melhorar a responsividade e refinar mais o código para a próxima sprint;
 * Melhorar em alguns pontos na comunicação do grupo;
+* Melhorar o foco em algumas atividades;
   
 
 ## 🔗 Resultados :
