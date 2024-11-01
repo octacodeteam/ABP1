@@ -49,3 +49,7 @@ Adicionar retrospectiva da sprint 2
 [Vídeo Youtube](https://youtu.be/AN-MqWtQggA)
 
 <br>
+
+## 📊 Diagrama de Caso de Uso :
+
+![diagramadecasodeuso](https://github.com/user-attachments/assets/489400f0-e0b9-4a4b-bc6b-e03920970ab8)
