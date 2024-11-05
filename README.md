@@ -30,7 +30,8 @@ Na segunda sprint, o objetivo foi criar o código HTML e CSS do frontend baseado
 
 ## 📉Burndown
 
-![burndows-sprint2](https://github.com/user-attachments/assets/908bb953-f523-4a57-936d-059a63d0ee6f)
+<img width="510" alt="burndows-sprint2" src="https://github.com/user-attachments/assets/86a2ec59-b20c-49f9-8ee1-e336e75eb3c7">
+
 
 
 ## Retrospectiva
