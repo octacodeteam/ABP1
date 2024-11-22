@@ -23,7 +23,7 @@ Nesta sprint, focamos em diversas tarefas de integração e desenvolvimento, tan
 | 7  | Emissão de certificado de conclusão para aprovados    |  Alisson; Igor        | Baixa       | Como usuário, eu quero completar todos os tópicos, para que, eu receba o certificado após concluir; | 5 | Criar página de certificado com cabeçalho, imagem, botão para imprimir, e link para perfil do usuário. |
 | 8  | Criar validação de questionários respondidos | Alisson; Igor        | Média       | Como usuário, eu não poderei emitir um certificado a menos que tenha êxito em todos os questionários; | 2 | Desenvolver uma validação que verifica se todos os questionários foram respondidos através do localStorage, js e banco de dados. |
 | 9  | Certificado dinâmico | Igor ; Alisson        | Média       | Como usuário, eu quero conseguir fazer o download do meu certificado contendo meus dados | 2 | Criação do certificado de forma dinâmica, mostrando o nome do usuário e disponível para download em pdf. |
-| 10  | Design e responsividade das páginas | Gustavo Hammes; Alisson; Yasmin | Alta       | Como usuário, eu quero acesso a um design unificado, responsivo e adaptado à arquitetura da informação; | 8 | Criar estilos CSS para cada página, com foco em responsividade e alinhamento à arquitetura de informação. |
+| 10  | Design e responsividade das páginas | Gustavo Hammes; Alisson; Yasmin; André; Juan | Alta       | Como usuário, eu quero acesso a um design unificado, responsivo e adaptado à arquitetura da informação; | 8 | Criar estilos CSS para cada página, com foco em responsividade e alinhamento à arquitetura de informação. |
 
 
 
