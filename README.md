@@ -21,7 +21,7 @@
 > [!IMPORTANT]
 > Desenvolver um sistema web interativo e educativo que guie os usuários no aprendizado dos conceitos, práticas e princípios do Scrum, proporcionando uma experiência de aprendizado envolvente com seções de instrução, avaliações e emissão de certificados de conclusão.
 
-> **Status do Projeto: Em Desenvolvimento 🚧**
+> **Status do Projeto: Concluído ✅**
 
 <span id="sprints">
 
