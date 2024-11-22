@@ -20,6 +20,7 @@ Nesta sprint, focamos em diversas tarefas de integração e desenvolvimento, tan
 
 ## 📉Burndown
 
+![burndows-sprint3](https://github.com/user-attachments/assets/62f36bfd-18d6-48c4-9550-564154bda56d)
 
 
 ## Retrospectiva
