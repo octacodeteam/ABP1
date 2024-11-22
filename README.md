@@ -33,6 +33,22 @@ Nesta sprint, focamos em diversas tarefas de integração e desenvolvimento, tan
 
 
 ## Retrospectiva
+
+Retrospectiva da Sprint 3
+
+* A Sprint 3 foi marcada por muitos contratempos, mas, ao mesmo tempo, foi a mais produtiva em termos de avanço real do projeto.
+  
+* Foi necessário um estudo aprofundado de algumas funcionalidades, embora tenha demandado mais tempo do que o planejado.
+  
+* A organização do trabalho foi um ponto positivo; planejamento e distribuição melhor das tarefas.
+  
+* A equipe se manteve focada e conseguiu superar os obstáculos com criatividade e colaboração.
+  
+* Necessária a aprimoração da comunicação interna em pontos específicos, já que alguns pontos ainda causaram retrabalho.
+  
+* O código avançou significativamente, mas será necessário refinar e ajustar algumas partes para garantir a qualidade do produto final.
+  
+* O aprendizado contínuo nesta sprint foi fundamental para o progresso, mas precisamos melhorar nossa capacidade de adaptação às mudanças imprevistas.
   
 
 ## 🔗 Resultados :
