@@ -95,11 +95,6 @@ Estamos utilizando o próprio Scrum como framework para desenvolver este site so
 | 10    |  Como administrador, eu quero cadastrar as questões no SGBD PostgreSQL, para que, eu consiga definir as questões;                              |
 <br>  
 
-## 🌱Backlog da Sprint
-<p align="center">
-Adicionar backlog das sprints
-<br>
-
 ## 📋Trello
 <p align="center">
 https://trello.com/b/K0QEKpUr/abp<br>
