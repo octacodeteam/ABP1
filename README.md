@@ -18,7 +18,7 @@
 <span id="objetivo">
   
 ## 📌Objetivo do Projeto
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Desenvolver um sistema web interativo e educativo que guie os usuários no aprendizado dos conceitos, práticas e princípios do Scrum, proporcionando uma experiência de aprendizado envolvente com seções de instrução, avaliações e emissão de certificados de conclusão.
 
 > **Status do Projeto: Concluído ✅**
