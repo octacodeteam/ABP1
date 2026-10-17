@@ -84,15 +84,15 @@ Estamos utilizando o próprio Scrum como framework para desenvolver este site so
 | ID        | Descrição                                                                  |
 |-----------|----------------------------------------------------------------------------|
 | 1     | Como usuário, eu quero navegar com um menu de navegação, para que, ao ser clicado, remeta a ação correspondente;                               |
-| 2     | Como usuário, eu quero me cadastrar, para que, ao informar meu nome completo, email e senha, eu crie um cadastro automático;                   |
-| 3     | Como usuário, eu quero efetuar login, para que, eu consiga acessar informando meu email de cadastro e senha;                                   |
+| 2     | Como usuário, eu quero me cadastrar, para que, ao informar meu nome completo, e-mail e senha, eu crie um cadastro automático;                   |
+| 3     | Como usuário, eu quero efetuar login, para que, eu consiga acessar informando meu e-mail de cadastro e senha;                                   |
 | 4     | Como administrador, eu quero manter um cadastro de questões de verdadeiro ou falso, para que, elas mostrem referente aos tópicos;              |
 | 5     | Como usuário, eu quero realizar questionamentos, para que, cada questionamento possua 3 questões referentes aos tópicos;                       |
 | 6     | Como usuário, eu quero visualizar os tópicos, para que, eu só consiga realizar os questionamentos quando estiver logado;                       |
 | 7     | Como usuário, eu quero realizar os questionamentos quantas vezes quiser, para que, eu consiga realizar até obter êxito;                        |
 | 8     | Como usuário, eu quero realizar os questionamentos nos tópicos não concluídos, para que, eu de continuidade após acertar pelo menos 2 questões;|
 | 9     | Como usuário, eu quero completar todos os tópicos, para que, eu receba o certificado após concluir;                                            |
-| 10    |  Como administrador, eu quero cadastrar as questões no SGBD PostgreSQL, para que, eu consiga definir as questões;                              |
+| 10    |  Como administrador, eu quero cadastrar as questões no SGBD PostgreSQL, para que, eu consiga definir as questões.                              |
 <br>  
 
 ## 📋Trello
